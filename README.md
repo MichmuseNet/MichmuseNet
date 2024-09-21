@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichmuseNet
-- 👀 I’m interested in learn how to code
+- 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 How to reach me: on ig as @iimichellele

@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MichmuseNet
+- 👋 Hi, I’m Andrea Michelle Olivas Rivera 
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on beginner friendly projects
-- 📫 How to reach me: on ig as @iimichellele
+- 🌱 I’m currently learning python and c/c ++
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me: on ig as @AndreaOlivasr and my linkedIn is Andrea Michelle Olivas Rivera 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i love cats!
+- ⚡ Fun fact: i love cats and playing videogames!
 
 <!---
 MichmuseNet/MichmuseNet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

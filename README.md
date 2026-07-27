@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea Michelle Olivas Rivera 
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python and c/c ++
+- 👀 I’m interested in learning how to code and network
+- 🌱 I’m currently studying for CCNA
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: on ig as @AndreaOlivasr and my linkedIn is Andrea Michelle Olivas Rivera 
 - 😄 Pronouns: she/her
